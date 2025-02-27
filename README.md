@@ -1,17 +1,11 @@
 # Node Express Basics🚀
 
-**Ever feel like your code is stuck in slow-mo?**  
 Welcome to Node Express Basics. This server handles GET, PUT, PATCH, and DELETE requests, connects seamlessly to MongoDB, and logs every HTTP request like a boss.
 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [API Endpoints](#api-endpoints)
-- [Logging Middleware](#logging-middleware)
-- [MongoDB Integration](#mongodb-integration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This boilerplate serves as a kickstart for your Node.js projects. It showcases:
