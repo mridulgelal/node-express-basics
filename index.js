@@ -10,7 +10,7 @@ const app = express();
 const PORT = 8000;
 
 // connection
-connectMongoDb("mongodb://127.0.0.1:27017/youtube-app-1");
+connectMongoDb("mongodb://127.0.0.1:27017/your-app");
 
 app.use(express.urlencoded({ extended: false }));
 
