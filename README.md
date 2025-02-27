@@ -1,6 +1,6 @@
 # Node Express Basics🚀
 
-Welcome to Node Express Basics. This server handles GET, PUT, PATCH, and DELETE requests, connects seamlessly to MongoDB, and logs every HTTP request like a boss.
+Welcome to Node Express Basics. This server handles GET, POST, PATCH, and DELETE requests, connects seamlessly to MongoDB, and logs every HTTP request like a boss.
 
 ## Table of Contents
 - [Overview](#overview)
